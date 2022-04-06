@@ -1,4 +1,4 @@
-.authContainer{
+#authContainer{
     background-color: #ffebcd;
     height: 400px;
     width: 300px;
@@ -9,14 +9,16 @@
 }
 
 .frmLogin, .frmSignup{
-    height: 250px;
+    height: 400px;
     width: 300px;
-    margin: 30px;
+    margin-left: 50px;
 }
 
-.authMsg{
-    margin-top: 40px;
+.msgAuth{
+
     margin-right: 15px;
-    bottom: 0px;
-    float: right;
+    
+}
+.msgAuth button{
+    margin-left: 10px;
 }
