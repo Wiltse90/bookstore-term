@@ -10,12 +10,10 @@ const Header = () =>{
                 <div className="divImg">
                     <span>Home</span>
                 </div>
-                <div id="titleHeader">
-                    <span>Crack <spand style={{color: "#ffebcd"}}>- A -</spand> Book</span>
-                    <img id="imgHeader" src={book}></img>
-                </div>
+                <div id="titleHeader">Crack <spand style={{color: "#ffebcd"}}>- A -</spand> Book <img id="imgHeader" src={book}></img></div>
+               
                 
-                <div>
+                <div className="pageLinks">
                     <span className='divImg'>Shop</span>
                     <span className='divImg'>About</span>
                     <button className="btnHeader">Login</button>

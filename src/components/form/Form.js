@@ -19,7 +19,6 @@ const Form = () => {
 
     const callback = useCallback((user) => {
         setRegistered(registered => !registered);
-        event.preventDefault();
         setUser(user);
     }, []);
 
