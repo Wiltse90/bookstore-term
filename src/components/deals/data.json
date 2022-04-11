@@ -1,0 +1,44 @@
+[
+    {
+        "name":"3-Ring Binder",
+        "brand":"Exceed",
+        "price":4.99,
+        "department":"Supplies"
+    },
+    {
+        "name":"Object-Oriented Software Engineering",
+        "author":"Bernd Bruegge",
+        "isbn":"9780136061250",
+        "price":79.99,
+        "department":"Books",
+        "image":"https://pictures.abebooks.com/isbn/9780136061250-us.jpg"
+    },
+    {
+        "name":"TI-30XIIS Scientific Calculator",
+        "brand":"Texas Instruments",
+        "price":19.99,
+        "department":"Technology"
+    },
+    {
+        "name":"Sams Teach Yourself Web Publishing",
+        "author":"Rafe Colburn and Laura Lemay",
+        "isbn":"9780672330964",
+        "price":39.99,
+        "department":"Books",
+        "image":"https://pictures.abebooks.com/isbn/9780672330964-us.jpg"
+    },
+    {
+        "name":"Building Scalable Apps with Redis and Node.js",
+        "author":"Joshua Johanan",
+        "isbn":"9781783984480",
+        "price":39.99,
+        "department":"Books",
+        "image":"https://images-us.bookshop.org/ingram/9781783984480.jpg?height=500&v=v2"
+    },
+    {
+        "name":"Mens Gray CSP T-Shirt",
+        "brand":"Champion",
+        "price":49.99,
+        "department":"Merchandise"
+    }
+]

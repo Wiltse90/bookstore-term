@@ -1,0 +1,33 @@
+.overlay{
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+    z-index: 900;
+    opacity: .9;
+    position: absolute;
+}
+.deals {
+    z-index: 1000;
+    margin-left: 25%;
+    margin-top: 1%;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    color: white;
+}
+#exitOverlay {
+    position: absolute;
+    z-index: 2000;
+    margin-top: 2%;
+    margin-left: 20%;
+    color: white;
+    background-color: black;
+    opacity: .6;
+}
+#msgDeal{
+    z-index: 2000;
+    position: absolute;
+    margin-left: 30%;
+    color: rgb(203, 32, 32);
+    font-size: 2vw;
+}
